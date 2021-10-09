@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "npm": "^8.0.0"
+  },
+  "name": "my-first-serverless-project",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "node-fetch": "2.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peleburrows/my-first-serveless-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peleburrows/my-first-serveless-project/issues"
+  },
+  "homepage": "https://github.com/peleburrows/my-first-serveless-project#readme"
+}
